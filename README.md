@@ -6,7 +6,7 @@ AIM:
 
 APPARATUS REQUIRED:
 
-Xilinx 14.7
+Xilinx 14.7 
 Spartan6 FPGA
 
 **LOGIC DIAGRAM**
